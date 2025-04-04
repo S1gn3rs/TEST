@@ -5,8 +5,8 @@ date: 2024-03-28
 author: ["s1gn3rs"]
 ---
 
-# debug2 - First blood
-**by s1gn3rs
+# debug-2 - First blood
+**by s1gn3rs**
 
 **Points:** Dynamic
 
@@ -18,7 +18,7 @@ author: ["s1gn3rs"]
 
 **Author:** FlamePyromancer
 
-**Given:** [debug-2](debug-2.tar.gz)
+**Given:** [debug-2/libc/ld](debug-2.tar.gz)
 
 ## TL;DR
 
