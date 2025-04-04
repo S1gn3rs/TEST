@@ -1,5 +1,5 @@
 ---
-title: debug2 -- tamu25 CTF
+title: debug-2 -- tamu25 CTF
 tags: ["tamu25CTF", "PWN", "ROP", "Stack Pivoting"]
 date: 2024-03-28
 author: ["s1gn3rs"]
@@ -8,12 +8,17 @@ author: ["s1gn3rs"]
 # debug2 - First blood
 **by s1gn3rs
 
+**Points:** Dynamic
+
+**Solves:** 14
+
 **Description:**
 
 > My friends gave me some advice to fix my code because apparently there were "glaring security flaws". Not sure what they meant, but now my code is more secure than ever!
 
 **Author:** FlamePyromancer
 
+**Given:** [debug-2](debug-2.tar.gz)
 
 ## TL;DR
 
