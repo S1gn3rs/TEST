@@ -2,21 +2,17 @@
 title: debug2 -- tamu25 CTF
 tags: ["tamu25CTF", "PWN", "ROP", "Stack Pivoting"]
 date: 2024-03-28
-authors: ["s1gn3rs"]
+author: ["s1gn3rs"]
 ---
 
-# TEMU 2025 - debug2 Writeup 🩸FIRST BLOOD🩸
-- **Author:** s1gn3rs
-- **Team:** STT
-- **Date:** March 28, 2025
-- **github:** https://github.com/S1gn3rs/writeups/tree/502e91172c163ca588e4814cd8cc4a0525548bf7/2025_03_28_TAMUctf25/pwn/debug2
+# debug2 - First blood
+**by s1gn3rs
 
-## Challenge Information
+**Description:**
 
-- **Category:** PWN
-- **Challenge Name:** debug2
-- **Description:** My friends gave me some advice to fix my code because apparently there were "glaring security flaws". Not sure what they meant, but now my code is more secure than ever!
-- **Author:** FlamePyromancer
+> My friends gave me some advice to fix my code because apparently there were "glaring security flaws". Not sure what they meant, but now my code is more secure than ever!
+
+**Author:** FlamePyromancer
 
 
 ## TL;DR
